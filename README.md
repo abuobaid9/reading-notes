@@ -12,8 +12,8 @@
 
 ---
 
-* [Linked List](./Linked%20Lists/linkedList.md)
+* [Linked List](./LinkedLists/linkedList.md)
 
 ---
 
-* [SQL Vs NoSQL](./Data%20Modeling/SQL%26NoSQL.md)
+* [SQL Vs NoSQL](./DataModeling/SQL-NoSQL.md)
