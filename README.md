@@ -21,3 +21,7 @@
 ---
 
 * [SQL Vs NoSQL](./DataModeling/SQL-NoSQL.md)
+
+---
+
+* [Sequelize](./sequelizeNormalization/sequelize.md)
