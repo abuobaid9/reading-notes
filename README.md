@@ -25,3 +25,7 @@
 ---
 
 * [Sequelize](./sequelizeNormalization/sequelize.md)
+
+---
+
+* [Authentication](./Authentication/authentication.md)
