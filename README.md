@@ -29,3 +29,7 @@
 ---
 
 * [Authentication](./Authentication/authentication.md)
+
+---
+
+* [Bearer Authorization](./%20BearerAuthorization/%20bearerAuthorization.md)
