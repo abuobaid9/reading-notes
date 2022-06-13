@@ -32,4 +32,4 @@
 
 ---
 
-* [Bearer Authorization](./%20BearerAuthorization/%20bearerAuthorization.md)
+* [Bearer Authorization](./Authorization/Authorization.md)
