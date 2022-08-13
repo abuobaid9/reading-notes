@@ -21,7 +21,6 @@ The only argument to the useState() Hook is the initial state. Unlike with class
 
  It returns a pair of values: the current state and a function that updates it. This is why we write const [count, setCount] = useState(). This is similar to this.state.count and this.setState in a class, except you get them in a pair. If you’re not familiar with the syntax we used, we’ll come back to it at the bottom of this page.
 
-
 - Example:
 
 ```js
