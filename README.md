@@ -10,7 +10,7 @@
 | [Trees](./Trees/README.md) | [AWS](./AWS/README.md) |    [AWS-S3](./AWS-s3/README.md) |
 |[AWS-Events](./AWS-Events/README.md)| [React](./react/README.md)  |  [React Hooks](./react-hook/README.md)  |
 | [useEffect](./react-useeffects/README.md) | [Context API](./context-api/README.md) |  [RBAC](./AuthReact/README.md)   |
-| [API Integration](./API-Integration/README.md) | [Graphs](./Graphs/README.md) |   |
+| [API Integration](./API-Integration/README.md) | [Graphs](./Graphs/README.md) |[Redux](./Redux/README.md)   |
 
 
 <!-- | col 3 is | right-aligned |    $1 | -->
